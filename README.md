@@ -3,7 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=800&lines=Arjun+Nair;B.Tech+CSE+(Data+Science)+%40+NMIMS;Software+%7C+Data+%7C+AI+%7C+DSA;Building+Tools+for+Real-World+Problems;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Improve" alt="Typing SVG" />
 
 </div>
-# Hey, I'm Arjun 👋
+
+
+#Hey, I'm Arjun 👋
 
 **Computer Science & Engineering (Data Science)** student at **NMIMS University**, passionate about building tools that solve real problems. I enjoy software development, data science, problem solving, and learning how things work under the hood.
 
