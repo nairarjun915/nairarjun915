@@ -5,7 +5,7 @@
 </div>
 
 
-#Hey, I'm Arjun 👋
+## Hey, I'm Arjun 👋
 
 **Computer Science & Engineering (Data Science)** student at **NMIMS University**, passionate about building tools that solve real problems. I enjoy software development, data science, problem solving, and learning how things work under the hood.
 
