@@ -9,6 +9,26 @@
 
 **Computer Science & Engineering (Data Science)** student at **NMIMS University**, passionate about building tools that solve real problems. I enjoy software development, data science, problem solving, and learning how things work under the hood.
 
+
+## 🎯 Interests & Skills
+
+* **Programming:** C, Python, R, JavaScript
+* **Web Development:** HTML, CSS, JavaScript
+* **Data Science:** Data analysis, statistics, machine learning fundamentals
+* **Core CS:** Data Structures & Algorithms, problem solving
+* **Tools:** RStudio, StarUML, Git, GitHub
+* **Backend:** APIs, WebSockets, system fundamentals
+* **Interests:** Software development, Data Science, Machine Learning
+
+## 💼 Experience
+
+**Hospital Operations Volunteer** @ Oncology Hospital
+
+* Worked with **HISTree (Hospital Information System)**
+* Observed patient registration, billing, token and queue management
+* Learned how technology supports real-world healthcare workflows
+
+
 ## 🚀 What I'm Working On
 
 ### **SIH 2026 — CropXChange**
@@ -44,23 +64,6 @@ A cross-platform mobile controller that lets an Android device work as a control
 * **Features:** Real-time input mapping, WebSocket communication, multi-device support
 * **Tech:** Python, Android, WebSockets, vgamepad
 
-## 🎯 Interests & Skills
-
-* **Programming:** C, Python, R, JavaScript
-* **Web Development:** HTML, CSS, JavaScript
-* **Data Science:** Data analysis, statistics, machine learning fundamentals
-* **Core CS:** Data Structures & Algorithms, problem solving
-* **Tools:** RStudio, StarUML, Git, GitHub
-* **Backend:** APIs, WebSockets, system fundamentals
-* **Interests:** Software development, Data Science, Machine Learning
-
-## 💼 Experience
-
-**Hospital Operations Volunteer** @ Oncology Hospital
-
-* Worked with **HISTree (Hospital Information System)**
-* Observed patient registration, billing, token and queue management
-* Learned how technology supports real-world healthcare workflows
 
 ## 📚 Currently Learning
 
